@@ -1,0 +1,11 @@
+export const SAVE_PASSW = 'SAVE_PASSW'
+export const DELETE_PASSW = 'DELETE_PASSW'
+// export const EDIT_PASSW = 'EDIT_PASSW'
+export const UPDATE_PASSW = 'UPDATE_PASSW'
+export const CHANGE_SCREEN = 'CHANGE_SCREEN'
+export const FETCH_PASSW = 'FETCH_PASSW'
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const SHOW_ERROR = 'SHOW_ERROR'
+export const CLEAR_ERROR = 'CLEAR_ERROR'
+
